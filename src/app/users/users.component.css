@@ -1,0 +1,10 @@
+.action:hover {
+  color: white;
+  background-color: black;
+}
+
+@media only screen and (max-width: 780px) {
+  .hide {
+    display: none;
+  }
+}
